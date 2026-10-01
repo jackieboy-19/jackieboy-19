@@ -1,16 +1,24 @@
-## Hi there 👋
+JOÃO BRITO
 
-<!--
-**jackieboy-19/jackieboy-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development Student @ 42 Porto
+C • Python • Bash • Git
 
-Here are some ideas to get you started:
+────────────────────────────────────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ABOUT ME
+
+I'm a Software Development student at 42 Porto,
+focused on building a strong foundation in C,
+Unix systems and software engineering.
+
+Currently progressing through the 42 Common Core
+while building personal projects around software
+development and automation.
+
+────────────────────────────────────
+
+TECHNOLOGIES
+
+C          Python
+Bash       Git
+Linux      Make
