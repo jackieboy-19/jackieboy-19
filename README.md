@@ -22,3 +22,18 @@ TECHNOLOGIES
 C          Python
 Bash       Git
 Linux      Make
+
+42 COMMON CORE
+
+→ Libft
+→ ft_printf
+→ get_next_line
+→ ...
+
+CURRENTLY
+
+→ 42 Porto Common Core
+→ Systems programming
+→ C
+→ Unix/Linux
+→ Building projects
