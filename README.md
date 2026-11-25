@@ -1,6 +1,6 @@
 <div align="center">
 
-# João Brito
+<img src="banner (1).svg" width="100%" alt="João Brito | Software Developer @ 42 Porto" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Development+Student+%40+42+Porto;Building+things+in+C;Automating+businesses+with+AI" alt="Typing animation" />
 
