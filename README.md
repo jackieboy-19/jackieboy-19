@@ -19,10 +19,10 @@
 
 | Project | Description | Status |
 |---|---|---|
-| [libft](https://github.com/jackieboy-19/libft) | My own C library, reimplementing standard libc functions | ![Completed](https://img.shields.io/badge/Completed-2EA043?style=flat-square) |
-| [ft_printf](https://github.com/jackieboy-19/ft_printf) | Recreation of `printf` using variadic functions | ![Completed](https://img.shields.io/badge/Completed-2EA043?style=flat-square) |
-| [get_next_line](https://github.com/jackieboy-19/get_next_line) | Reads a file line by line from a file descriptor | ![Completed](https://img.shields.io/badge/Completed-2EA043?style=flat-square) |
-| [push_swap](https://github.com/jackieboy-19/push_swap) | Sorts integers on two stacks with the fewest possible moves | ![In progress](https://img.shields.io/badge/In_progress-D29922?style=flat-square) |
+| [libft](https://github.com/jackieboy-19/libft) | My own C library, reimplementing standard libc functions | ![100](progress-100.svg) |
+| [ft_printf](https://github.com/jackieboy-19/ft_printf) | Recreation of `printf` using variadic functions | ![100](progress-100.svg) |
+| [get_next_line](https://github.com/jackieboy-19/get_next_line) | Reads a file line by line from a file descriptor | ![125](progress-125.svg) |
+| [push_swap](https://github.com/jackieboy-19/push_swap) | Sorts integers on two stacks with the fewest possible moves | ![60](progress-60.svg) |
 
 *More projects will be added as I progress through the curriculum.*
 
