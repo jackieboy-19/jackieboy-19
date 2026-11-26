@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="20" viewBox="0 0 150 20" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#60a5fa"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect x="0" y="6" width="104" height="8" rx="4" fill="#1e2433"/>
+<rect x="0" y="6" width="0" height="8" rx="4" fill="url(#g)"><animate attributeName="width" from="0" to="104.0" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+<text x="112" y="14.5" font-size="12" font-weight="600" fill="#8b949e">100%</text>
+</svg>
